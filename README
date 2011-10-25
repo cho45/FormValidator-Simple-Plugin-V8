@@ -1,27 +1,17 @@
-This is Perl module Text::Xatena.
+NAME
+    FormValidator::Simple::Plugin::V8 -
 
-INSTALLATION
+SYNOPSIS
+      use FormValidator::Simple::Plugin::V8;
 
-FormValidator::Simple::Plugin::V8 installation is straightforward. If your CPAN shell is set up,
-you should just be able to do
+DESCRIPTION
+    FormValidator::Simple::Plugin::V8 is
 
-    % cpan FormValidator::Simple::Plugin::V8
+AUTHOR
+    cho45 <cho45@lowreal.net>
 
-Download it, unpack it, then build it as per the usual:
+SEE ALSO
+LICENSE
+    This library is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
 
-    % perl Makefile.PL
-    % make && make test
-
-Then install it:
-
-    % make install
-
-DOCUMENTATION
-
-FormValidator::Simple::Plugin::V8 documentation is available as in POD. So you can do:
-
-    % perldoc FormValidator::Simple::Plugin::V8
-
-to read the documentation online with your favorite pager.
-
-cho45
